@@ -1,5 +1,5 @@
 {
-  "name": "electrode-react-ssr-caching",
+  "name": "spotim-electrode-react-ssr-caching",
   "version": "0.1.5",
   "description": "Optimize React SSR with profiling and component caching",
   "main": "lib/ssr-caching.js",
